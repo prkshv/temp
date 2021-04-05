@@ -1,0 +1,7 @@
+git config --global user.email "xxxxx"
+git config --global user.name "xxxxx"
+git init
+git add .
+git commit -m "xxxxx"
+git remote add origin https://github.com/xxxx/xxxx
+git push -u origin master
